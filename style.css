@@ -1,0 +1,35 @@
+body {
+  background: #D5B4E0
+}
+
+h1 {
+  margin: 0 auto;
+}
+
+#wrapper {
+  height: 50vh;
+  width: 50%;
+  background: white;
+  box-shadow: 10px 10px 8px #888888;
+  margin: 12.5% auto 0;
+}
+
+#wrapper div {
+  width: 50%;
+  height: 50%;
+}
+
+#tR{
+  float: right;
+}
+#tL{
+  float: left;
+}
+
+#bL{
+  float: left;
+}
+
+#bR{
+  float: right;
+}
